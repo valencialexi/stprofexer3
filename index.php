@@ -1,4 +1,5 @@
 <html>
+
 <head>
 <Title>Registration Form</Title>
 <style type="text/css">
@@ -76,4 +77,5 @@ if(count($registrants) > 0) {
 }
 ?>
 </body>
+
 </html>
